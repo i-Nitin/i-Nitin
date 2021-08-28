@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nitinhbhbjb
 # Decription
-#SUMMARY OF THE HACKATHON
+# SUMMARY OF THE HACKATHON
 
-##Tools & Technologies
+## Tools & Technologies
 * **HTML**        -      For basic dashboard structure
 * **CSS**         -      For styling dashboard structure
 * **Javascript**  -      For interacting with **JSON**
 
-##Instructions to analyse specific Stock
+## **Instructions** to analyse specific Stock
 <dl>
 <dd>Provide a form where specific Company name is entered to check the time series of data set of the company.On clicking the field the entire time series is displayed on the dashboard in the form of graph.</dd>
 </dl>
